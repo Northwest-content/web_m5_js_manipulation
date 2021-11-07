@@ -45,6 +45,7 @@ In this our condition will be `number % 2`:
 1. If `number` was even, then all will be distributed fairly and value will be `0`
 2. If `number` was odd, then all will be distributed unfairly and value will be `1` because their will always be one left
 
+
 ![img](https://lh5.googleusercontent.com/6c37-Yqx-sxNHcCkUpKqAFL8fjF_EFvzV3QO8AVkixbbwbn3uHifasVWSRyTS6zuofAkfdfKKqm4zZ51WFKZm3yFPWsrFVI0MO9viQEg7jBpaekVgdKT5T2gO5N_D9muUPhmp5zp)
 
 Weird!! When we enter something even it says odd and vise versa 🤔
@@ -54,6 +55,7 @@ Weird!! When we enter something even it says odd and vise versa 🤔
 > As we said when `number % 2` is even the result must be zero and when the number is odd the result must be one. 
 
 The fix will be `if (number % 2 == 0)` 
+
 
 ![img](https://lh5.googleusercontent.com/Njo0PdzyMwOpb728DO6MH6W4knvHE_6Xawx2DsH6DRAGTaGHzdX50hjsyMBqgTvrKItoB0YqBh2wfYItRqJKntoBChPOEWUr6GJqd9IqgkmZgFMakx6XH68zj2jRh_W1xqwPgdNj)
 
@@ -73,7 +75,7 @@ Are you tired of opening the `inspect` to see the `console` result? I know I do 
 
 1. First let's give the `<body>` an `id` so we can use it
 
-   ![img](https://lh4.googleusercontent.com/odICp2knqI9rfg5tBaStcwhBJPus5NLJgNQowpTrsR-5UMcUvKaEKFU10Sydu6tlc18hrJbs1bLsfpznQ-j0jsiQyxqs5XgGiuzLSNyYQRIG3ybgWw7LmJUhSImJVpPCmIO53cih)
+![img](https://lh4.googleusercontent.com/odICp2knqI9rfg5tBaStcwhBJPus5NLJgNQowpTrsR-5UMcUvKaEKFU10Sydu6tlc18hrJbs1bLsfpznQ-j0jsiQyxqs5XgGiuzLSNyYQRIG3ybgWw7LmJUhSImJVpPCmIO53cih)
 
 2. Add `document.querySelector()``to both statements calling that `id`
 
@@ -81,15 +83,15 @@ Are you tired of opening the `inspect` to see the `console` result? I know I do 
 
 3. Now our additional command is `.innerHTML` 
 
-   ![img](https://lh3.googleusercontent.com/SEszFGuxhIUC5Jo09WW7CZv1XR5sDigmGOF7OYx3H4kmrKqbBU6RVMZX4Q2dYCL-3LWCDJcdcXWYbeRB4cUL6DGQEmt45A1qzKvZTKQKI5R_qWciE7AOxk31FujM56ypqOm6BfZL)
+![img](https://lh3.googleusercontent.com/SEszFGuxhIUC5Jo09WW7CZv1XR5sDigmGOF7OYx3H4kmrKqbBU6RVMZX4Q2dYCL-3LWCDJcdcXWYbeRB4cUL6DGQEmt45A1qzKvZTKQKI5R_qWciE7AOxk31FujM56ypqOm6BfZL)
 
 4. Adding out `innerHTML` to equal the sentence we want
 
-   ![img](https://lh5.googleusercontent.com/l2DCENXZSO9r58k6WzDENDlVkI6xd4UHdnqLedOycijIzEREdzFqUpc9nRdv_hSv9_5IMHlBQyTzxXZOIaBJ8w68CHdgrJDUqBpJ3sp_20fu2NTcYnF7bRJYJBB_TrIYt3Z3a2y8)
+![img](https://lh5.googleusercontent.com/l2DCENXZSO9r58k6WzDENDlVkI6xd4UHdnqLedOycijIzEREdzFqUpc9nRdv_hSv9_5IMHlBQyTzxXZOIaBJ8w68CHdgrJDUqBpJ3sp_20fu2NTcYnF7bRJYJBB_TrIYt3Z3a2y8)
 
 5. Close the `inspect` we do not need it 😍 Let's try it!!! 
 
-   ![img](https://lh6.googleusercontent.com/S_06XM_9LPt3VMuqRQdE4WqOuAAJl8IuOkmHBnfOvsnSqZqtTmA-caHIskAR4jN_AGFdRFmsXmtA8QqS-tygHAxgoS05j4kGpFmCxx8zTxxf5jBBP1U01_v7zADw16OtgJ8gAeWN)
+![img](https://lh6.googleusercontent.com/S_06XM_9LPt3VMuqRQdE4WqOuAAJl8IuOkmHBnfOvsnSqZqtTmA-caHIskAR4jN_AGFdRFmsXmtA8QqS-tygHAxgoS05j4kGpFmCxx8zTxxf5jBBP1U01_v7zADw16OtgJ8gAeWN)
 
 NICE 😍🔥 `proud of you 👏🏻`
 
@@ -99,7 +101,7 @@ NICE 😍🔥 `proud of you 👏🏻`
 
 **Implementation:**
 
-**![img](https://lh5.googleusercontent.com/Vm74deXaQ2nn_eaoPo-IyKeXG-e5bRuqZyKlqqKhBuMlgVSzeD63zgx3a9WaJyz7k0WeN8egc-DL64bDuft0UadaEG_KzFTcOIIqC2tRG6uPysi3D-59JaInhUlOVrBQ2d9KZCH-)**
+![img](https://lh5.googleusercontent.com/Vm74deXaQ2nn_eaoPo-IyKeXG-e5bRuqZyKlqqKhBuMlgVSzeD63zgx3a9WaJyz7k0WeN8egc-DL64bDuft0UadaEG_KzFTcOIIqC2tRG6uPysi3D-59JaInhUlOVrBQ2d9KZCH-)
 
 So it is not only `text` it can be any element we want 🔥
 
@@ -157,6 +159,7 @@ One isse left, as programmers we have to keep our code clean and neat
     </script>
 
 ``````
+
 
 ![img](https://lh4.googleusercontent.com/yFq6wtj-8P_fCjWbm1ZlnJ9Z-jncDRxZmqzeJdTz5_7Co47SiWcuLz1BLKVMuH7AN48ucIy3e9ueWO2NjUAW3UEGkkDBUqYYVZOVIlQpO9MDgbao2hqSjPTxI0-4s4Y2HprPyMco)
 
