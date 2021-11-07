@@ -16,7 +16,7 @@ Where inside the brackets you can write a `String` that the user would know what
 
 **Implementation:** 
 
-**![img](https://lh3.googleusercontent.com/d1qdjwYzpOq4tSim8zbxpL2L3X2QkhDsBm7y6gbegjZNOQD7ene_EeJ5jpCyE6Dbo5zqw_j6djd6JqF9-mlOUKhwfTMS6Lw-mNE08ZUSc_NPc82hnqzucrE8S2bITarX-vej6xxx)**
+![img](https://lh3.googleusercontent.com/d1qdjwYzpOq4tSim8zbxpL2L3X2QkhDsBm7y6gbegjZNOQD7ene_EeJ5jpCyE6Dbo5zqw_j6djd6JqF9-mlOUKhwfTMS6Lw-mNE08ZUSc_NPc82hnqzucrE8S2bITarX-vej6xxx)
 
 NICE 🔥
 
@@ -29,6 +29,7 @@ NICE 🔥
 > This where we can use variables 😍, then print the value 😎
 
 **Implementation:** 
+
 
 ![img](https://lh5.googleusercontent.com/EbhEVLJ0OpRus8mXLen8i5TSgGweSO2NfXyIJpk_V8umjt3MVENqoZHV9jwXGt98PKKg6LBdvEUOjN6zFm_oekx5zVoDh4sis9VV_ThUrZn0KJuBZ87Uy5eiuXkZ7JrSwjTUg5ha)
 
