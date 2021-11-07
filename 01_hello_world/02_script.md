@@ -14,7 +14,7 @@ Steps:
 
 - Now lets print `Hello from VS code` in the script 
 
-  ![img](https://lh5.googleusercontent.com/jQ_MePQs4Q9G7UDpPu2XBsdUQKdoKZNCLY2ZU-3pP8KQlng61pn35XqWWN6zTS6wqUOLW74wiuQzdKe6zX8T2yuoPl_jCO1zJw2Sw-bSSh0qZTDCs1zReOHAqbLLVskBrj8EjDXU)
+![img](https://lh5.googleusercontent.com/jQ_MePQs4Q9G7UDpPu2XBsdUQKdoKZNCLY2ZU-3pP8KQlng61pn35XqWWN6zTS6wqUOLW74wiuQzdKe6zX8T2yuoPl_jCO1zJw2Sw-bSSh0qZTDCs1zReOHAqbLLVskBrj8EjDXU)
 
   
 
