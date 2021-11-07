@@ -38,11 +38,13 @@ So what do you think will happen? 🤔
 
 **Implementation:** 
 
+
 ![img](https://lh5.googleusercontent.com/Y94XURfm7_xnzVNU3qwYsNw9Zd9Kiu4uDx8MBLS9xe1wih3qSjb6klw5AqSCoqbotaZ3PhrUAr-6Or-cvrYzMYWf9IT6Ngk0Y3fDVpcuT-mRBaRCBtB7SOC_ds-mhwk4zi1ij_uk)
 
 YES it did print the sentence
 
 Let's try to change `x` to see if it will not print? 
+
 
 ![img](https://lh3.googleusercontent.com/Vgoz0-h7w3Mw8K6uuOzAm1nb6pRIa37ihYoiXbkZQl-HyeEAbD0NPOQltPQ2kdfkKzNW_Y5NlFvSKJh17MMWEzHNP0yR1GDZUfzu4djtTVrNNfHiC44Sfy4LUbWTP0M7tvjfdg-I)
 
